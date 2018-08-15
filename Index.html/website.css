@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+section {
+    height: 100vh;
+    width: 49%;
+    display: inline-block;
+    background-color: #ccc;
+    overflow: auto;
+}
