@@ -8,7 +8,9 @@ section {
     background-color: #ccc;
     overflow: auto;
 }
-section {
+#card {
+  background-image:url('/')
+  
 
   
 
