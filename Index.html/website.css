@@ -12,10 +12,7 @@ section {
   background-image:url('https://cdn.newsapi.com.au/image/v1/c028cf3322130cc7d2aabdb21ea4721e?width=650'); 
   background-repeat: no-repeat;
   background-size: cover;
-  
-
-  
-
-
-
+}
+#iphone {
+  background-color: red;
 }
